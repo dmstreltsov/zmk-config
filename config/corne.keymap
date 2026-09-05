@@ -143,10 +143,10 @@
 
         num_nav {
             bindings = <
-&trans  &trans  &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &kp KP_SLASH       &kp KP_MINUS     &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BACKSPACE  &trans
-&trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp KP_MULTIPLY    &kp KP_PLUS      &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_ENTER   &trans
-&trans  &trans  &kp HOME        &kp INSERT      &kp END          &kp PRINTSCREEN    &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL   &trans
-                                &trans          &trans           &trans             &kp KP_DOT       &kp KP_COMMA     &kp QUESTION
+&trans  &trans  &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &kp KP_SLASH       &kp KP_MINUS  &kp N7        &kp N8        &kp N9        &kp BACKSPACE  &trans
+&trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp KP_MULTIPLY    &kp KP_PLUS   &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp KP_ENTER   &trans
+&trans  &trans  &kp HOME        &kp INSERT      &kp END          &kp PRINTSCREEN    &kp N0        &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp KP_EQUAL   &trans
+                                &trans          &trans           &trans             &kp DOT       &kp COMMA     &kp QUESTION
             >;
         };
 
